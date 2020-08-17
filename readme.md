@@ -41,17 +41,17 @@ I'm going to be using a RESTful API that does not requiere a key or auth. Here i
 
 ## Wireframes
 
-Landing Page Desktop
+
 <img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698746/landingPageNew_wmcgri.png" width="500">
-Character Lookup Desktop
+
 <img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="500">
-Character Lookup Results Desktop
+
 <img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/lookupResult_hixbhg.png" width="500">
-Landing Page Mobile
+
 <img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/mobileLandingPage_nkargp.png" width="300">
-Character Lookup Mobile
+
 <img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookup1_f3iq3s.png" width="300">
-Character Lookup Results Mobile
+
 <img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookupResults_n3dxyf.png" width="300">
 
 
