@@ -64,8 +64,8 @@ Upload images of your wireframes to an image hosting site or add them to an asse
 
 ## Priority Matrix
 
-![Image of Priority Matrix](https://res.cloudinary.com/dhj9oydvn/image/upload/v1597681045/studioGhibliFunPriorityMatrix.png)
-![Image of Matrix Legend](https://res.cloudinary.com/dhj9oydvn/image/upload/v1597681198/Tasks_Table_q6ydof.png)
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597681045/studioGhibliFunPriorityMatrix.png" width="400">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597681198/Tasks_Table_q6ydof.png" width="400">
 
 ## Timeframes
 
