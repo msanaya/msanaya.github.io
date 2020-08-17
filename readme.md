@@ -15,6 +15,8 @@ This site has a quiz for the user to see what Studio Ghibli character they would
 
 I'm going to be using a RESTful API that does not requiere a key or auth. Here is a sample of the JSON:
 
+https://ghibliapi.herokuapp.com/people
+
 
 ```
 [
