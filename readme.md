@@ -40,7 +40,10 @@ I'm going to be using a RESTful API that does not requiere a key or auth. Here i
 
 ## Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687740/landingPage_pmbvs8.png" width="400">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/quizPage_oakwxv.png" width="400">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="400">
+
 
 ### MVP/PostMVP
 
