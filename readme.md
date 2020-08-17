@@ -62,21 +62,22 @@ Upload images of your wireframes to an image hosting site or add them to an asse
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matrix.  Link this image in a similar manner to your wireframes
+![Image of Priority Matrix](https://res.cloudinary.com/dhj9oydvn/image/upload/v1597681045/studioGhibliFunPriorityMatrix.png)
+![Image of Matrix Legend](https://res.cloudinary.com/dhj9oydvn/image/upload/v1597681198/Tasks_Table_q6ydof.png)
 
 ## Timeframes
 
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Create basic html | H | 3hrs| 3.5hrs | 3.5hrs |
-| Create basic CSS | H | 3hrs| 2.5hrs | 2.5hrs |
-| Link API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Create form questions for quiz | M | 3hrs| 2.5hrs | 2.5hrs |
-| Create randomizer for quiz results | M | 3hrs| 2.5hrs | 2.5hrs |
-| Create drop-down menu with character list | M | 3hrs| 2.5hrs | 2.5hrs |
-| Create button for character lookup | M | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Create basic html | H | 3hrs| 3.5hrs | N/A |
+| Create basic CSS | H | 3hrs| 2.5hrs | N/A |
+| Link API | H | 3hrs| 2.5hrs | N/A |
+| Create form questions for quiz | M | 3hrs| 2.5hrs | N/A |
+| Create randomizer for quiz results | M | 3hrs| 2.5hrs | N/A |
+| Create drop-down menu with character list | M | 3hrs| 2.5hrs | N/A |
+| Create button for character lookup | M | 3hrs| 2.5hrs | N/A |
+| Total | H | 6hrs| 5hrs | N/A |
 
 ## Code Snippet
 
