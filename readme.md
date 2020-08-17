@@ -40,9 +40,18 @@ I'm going to be using a RESTful API that does not requiere a key or auth. Here i
 
 ## Wireframes
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687740/landingPage_pmbvs8.png" width="400">
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/quizPage_oakwxv.png" width="400">
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="400">
+Landing Page Desktop
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698746/landingPageNew_wmcgri.png" width="500">
+Character Lookup Desktop
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="500">
+Character Lookup Results Desktop
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/lookupResult_hixbhg.png" width="500">
+Landing Page Mobile
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/mobileLandingPage_nkargp.png" width="300">
+Character Lookup Mobile
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookup1_f3iq3s.png" width="300">
+Character Lookup Results Mobile
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookupResults_n3dxyf.png" width="300">
 
 
 ### MVP/PostMVP
@@ -75,14 +84,14 @@ I'm going to be using a RESTful API that does not requiere a key or auth. Here i
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Create basic html | H | 3hrs| 3.5hrs | N/A |
-| Create basic CSS | H | 3hrs| 2.5hrs | N/A |
-| Link API | H | 3hrs| 2.5hrs | N/A |
-| Create form questions for quiz | M | 3hrs| 2.5hrs | N/A |
-| Create randomizer for quiz results | M | 3hrs| 2.5hrs | N/A |
-| Create drop-down menu with character list | M | 3hrs| 2.5hrs | N/A |
-| Create button for character lookup | M | 3hrs| 2.5hrs | N/A |
-| Total | H | 6hrs| 5hrs | N/A |
+| Create basic html | H | 3hrs| N/A | N/A |
+| Create basic CSS | H | 5.6hrs| N/A | N/A |
+| Link API | H | 5.6hrs| N/A | N/A |
+| Create form questions for quiz | M | 5.6hrs| N/A | N/A |
+| Create randomizer for quiz results | M | 5.6hrs| N/A | N/A |
+| Create drop-down menu with character list | M | 5.6hrs| N/A | N/A |
+| Create button for character lookup | M | 5.6hrs| N/A | N/A |
+| Total |  | 37hrs| N/A | N/A |
 
 ## Code Snippet
 
