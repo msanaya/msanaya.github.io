@@ -41,18 +41,20 @@ I'm going to be using a RESTful API that does not requiere a key or auth. Here i
 
 ## Wireframes
 
+<div>
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698746/landingPageNew_wmcgri.png" width="550">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698746/landingPageNew_wmcgri.png" width="500">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="550">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="500">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/lookupResult_hixbhg.png" width="550">
+</div>
+<div>
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/mobileLandingPage_nkargp.png" width="250">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/lookupResult_hixbhg.png" width="500">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookup1_f3iq3s.png" width="250">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/mobileLandingPage_nkargp.png" width="300">
-
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookup1_f3iq3s.png" width="300">
-
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookupResults_n3dxyf.png" width="300">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookupResults_n3dxyf.png" width="250">
+</div>
 
 
 ### MVP/PostMVP
