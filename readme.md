@@ -9,7 +9,7 @@ Studio Ghibli Fun
 
 ## Project Description
 
-This site has a quiz for the user to see what Studio Ghibli character they would be. It also has a character lookup with displays stats. 
+This site has a character lookup for the user that displays stats.
 
 ## API and Data Sample
 
@@ -62,9 +62,9 @@ https://ghibliapi.herokuapp.com/people
 ### MVP/PostMVP
 
 #### MVP 
-* Successful usage of quiz: user can complete form to determine Studio Ghibli character name and stats.
 * Character Lookup: user is able to choose a character name from a drop-down menu and character stats will display.
 #### POST-MVP
+* Successful usage of quiz: user can complete form to determine Studio Ghibli character name and stats.
 * Display character image along with character name and stats in both quiz results and character look up.
 
 ## Project Schedule
