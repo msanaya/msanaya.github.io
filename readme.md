@@ -9,11 +9,13 @@ Studio Ghibli Fun
 
 ## Project Description
 
-This site has a quiz for the user to see what Studio Ghibli character they would be. It also has a character lookup with displays stats. 
+This site has a character lookup for the user that displays stats.
 
 ## API and Data Sample
 
 I'm going to be using a RESTful API that does not requiere a key or auth. Here is a sample of the JSON:
+
+https://ghibliapi.herokuapp.com/people
 
 
 ```
@@ -41,26 +43,28 @@ I'm going to be using a RESTful API that does not requiere a key or auth. Here i
 
 ## Wireframes
 
+<div>
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698746/landingPageNew_wmcgri.png" width="550">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698746/landingPageNew_wmcgri.png" width="500">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="550">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687737/characterlookup_bzjndi.png" width="500">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/lookupResult_hixbhg.png" width="550">
+</div>
+<div>
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/mobileLandingPage_nkargp.png" width="250">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/lookupResult_hixbhg.png" width="500">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookup1_f3iq3s.png" width="250">
 
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698747/mobileLandingPage_nkargp.png" width="300">
-
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookup1_f3iq3s.png" width="300">
-
-<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookupResults_n3dxyf.png" width="300">
+<img src="https://res.cloudinary.com/dhj9oydvn/image/upload/v1597698745/lookupResults_n3dxyf.png" width="250">
+</div>
 
 
 ### MVP/PostMVP
 
 #### MVP 
-* Successful usage of quiz: user can complete form to determine Studio Ghibli character name and stats.
 * Character Lookup: user is able to choose a character name from a drop-down menu and character stats will display.
 #### POST-MVP
+* Successful usage of quiz: user can complete form to determine Studio Ghibli character name and stats.
 * Display character image along with character name and stats in both quiz results and character look up.
 
 ## Project Schedule
