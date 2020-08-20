@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css" type="text/css" media="screen" title="no title" charset="utf-8">
   <link href="https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300;400;500;600;700&display=swap"
     rel="stylesheet">
@@ -14,23 +14,23 @@
 
 <body>
   <!-- Home page div -->
-  <div>
-    <h1>Studio Ghibli Fun</h1>
+  <div id="homePage">
+    <h1 id="title">Studio Ghibli Fun</h1>
     <button>Character Lookup</button>
   </div>
   <!-- Character Lookup page -->
-  <div>
-    <h2>Character Lookup</h2>
+  <div id="characterPage">
+    <h1 id="characterLookup">Character Lookup</h1>
     <select name="select-character" id="select-character"></select>
     <!-- <button id="submit">Submit</button> -->
     <input type="button" id="submit" value="Submit">
-  </div>
-  <!-- Character Lookup Results  -->
-  <div id="resultsDiv">
-    <div><span class="heading">Name: </span> <span id="name"></span></div>
-    <div><span class="heading">Gender: </span> <span id="gender"></span></div>
-    <div><span class="heading">Eye Color:</span> <span id="eyeColor"></span></div>
 
+    <!-- Character Lookup Results  -->
+    <div id="resultsDiv">
+      <div><span class="heading">Name: </span> <span id="name"></span></div>
+      <div><span class="heading">Gender: </span> <span id="gender"></span></div>
+      <div><span class="heading">Eye Color:</span> <span id="eyeColor"></span></div>
+    </div>
 </body>
 
 </html>

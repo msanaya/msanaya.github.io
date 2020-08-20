@@ -1,3 +1,80 @@
 body {
   font-family: 'Advent Pro', sans-serif;
 }
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+
+}
+
+#homePage {
+  background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687733/background1_fyrsjl.jpg");
+  opacity: 0.7;
+  height: 100%;
+  overflow: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-size: auto;
+  /* from https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background_hero */
+
+}
+
+#title {
+  /* margin: 0 auto; */
+  /* display: flex; */
+  align-items: center;
+  position: flex;
+  margin-top: 15%;
+  display: block;
+  font-size: 86px;
+  text-align: center;
+}
+
+button {
+  margin: 0 auto;
+  /* display: flex; */
+  justify-content: center;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 24px;
+  width: 280px;
+  height: 70px;
+  /* text-justify: auto; */
+  text-align: center;
+  display: table;
+  vertical-align: middle;
+  /* from https://www.codecademy.com/forum_questions/50c29d469bc1e14c8b001f64 */
+  background: #323232;
+  color: #FFAAA5;
+}
+
+#characterPage {
+  background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687733/background2_bzfaqf.jpg");
+  opacity: 0.7;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* #characterLookup {
+  text-align: center;
+  position: flex;
+  display: block;
+  /* margin-top: 15%; */
+/* align-items: center; */
+
+#results {
+  display: flex;
+}
+
+
+@media (max-width: 460px) {
+  #title {
+    font-size: 64px;
+  }
+}
