@@ -39,7 +39,7 @@ async function getData() {
       let name = results.name
       let gender = results.gender
       let eyeColor = results.eye_color
-      console.log(name)
+      console.log(eyeColor)
       document.getElementById('name').textContent = name
       document.getElementById('gender').textContent = gender
       document.getElementById('eyeColor').textContent = eyeColor
