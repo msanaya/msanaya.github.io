@@ -30,6 +30,8 @@ async function getData() {
       // console.log(change);
       const option = document.querySelector("select").value
       console.log(option);
+      // const container = document.querySelector("#characterPage")
+      // // container.stlyes.display = "none"
       // const test = fileData[option];
 
       const results = response.data[option]
