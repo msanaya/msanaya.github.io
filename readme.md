@@ -119,3 +119,7 @@ fileData.forEach((character, i) => {
 ## Extras 
 
 Mood Board: https://app.milanote.com/1K7IRU1oZ4pqaD?p=MBImE60fWtD
+
+Mobile Prototype: https://www.figma.com/proto/aX5UGb9dDp6LYpjLMeaYsO/Studio-Ghibli-Fun-Mobile?node-id=9%3A17&viewport=422%2C-2116%2C1&scaling=min-zoom
+
+Desktop Prototype: https://www.figma.com/proto/yQhfgKAJLC1CCSXZpvLvyO/Studio-Ghibli-Fun-Desktop?node-id=1%3A2&viewport=144%2C90%2C0.08341842889785767&scaling=scale-down 
