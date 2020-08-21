@@ -16,14 +16,13 @@ html {
 }
 
 #homePage {
-  background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687733/background1_fyrsjl.jpg");
+  background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1598023647/background1whitewashonline_luyuxh.png");
   height: 100%;
   overflow: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  background-size: auto;
   /* from https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background_hero */
 
 }
@@ -36,6 +35,7 @@ html {
   font-size: 86px;
   text-align: center;
   color: #323232;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 button {
@@ -54,7 +54,7 @@ button {
 }
 
 #characterPage {
-  background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1597687733/background2_bzfaqf.jpg");
+  background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1598024003/background2whitewashonline_ztqyfc.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -138,8 +138,10 @@ button {
 
 #characterLookup {
   text-align: center;
-  font-size: 72px;
+  font-size: 75px;
   color: #323232;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
 }
 
 #resultsDiv {
@@ -206,4 +208,7 @@ button {
     flex-wrap: wrap;
     border-radius: 10px;
   }
-}
+
+  #characterLookup {
+    flex-wrap: wrap;
+  }

@@ -5,7 +5,6 @@ async function getData() {
   const url = "https://ghibliapi.herokuapp.com/people/"
   try {
     const response = await axios.get(url)
-    console.log(response.data)
     const fileData = response.data
     fileData.forEach((character, i) => {
       const dropdown = document.getElementById('select-character')
@@ -13,8 +12,6 @@ async function getData() {
       option.textContent = character.name
       option.value = i
       dropdown.append(option)
-      console.log(option.textContent)
-      console.log(option);
     })
     const button = document.getElementById("submit")
     button.addEventListener("click", () => {
@@ -41,7 +38,3 @@ function takeMeToDiv() {
   div.scrollIntoView();
 
 };
-
-
-
-

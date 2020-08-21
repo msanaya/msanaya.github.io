@@ -100,7 +100,18 @@ https://ghibliapi.herokuapp.com/people
 
 ## Code Snippet
 
-Code will be included upon completition of the project.
+This code snippet is my project holy grail :star2:. It's basically the forEach loop to be able to go through the array of object and grab a specific property value and append it to a select dropdown. 
+
+```
+fileData.forEach((character, i) => {
+      const dropdown = document.getElementById('select-character')
+      const option = document.createElement('option')
+      option.textContent = character.name
+      option.value = i
+      dropdown.append(option)
+    })
+
+```
 
 ## Change Log
 
