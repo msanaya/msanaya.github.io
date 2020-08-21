@@ -91,10 +91,11 @@ https://ghibliapi.herokuapp.com/people
 | --- | :---: |  :---: | :---: | :---: |
 | Create basic html | H | 3hrs| N/A | 2hrs |
 | Create basic CSS | H | 5.6hrs| N/A | 1.5hrs  |
-| Link API | H | 5.6hrs| N/A | 7 |
-| Create drop-down menu with character list | M | 5.6hrs| N/A | 5.6 |
-| Create button for character lookup | M | 5.6hrs| N/A | 16.1 |
-| Total |  | 37hrs| N/A | N/A |
+| Link API | H | 5.6hrs| N/A | 7hrs |
+| Create drop-down menu with character list | M | 5.6hrs| N/A | 8hrs |
+| Create results from selected option | H | 5.6hrs| N/A | 7hrs |
+| Create button for character lookup | M | 5.6hrs| N/A | 1hrs |
+| Total |  | 37hrs| N/A | 26.5hrs |
 
 ## Code Snippet
 
