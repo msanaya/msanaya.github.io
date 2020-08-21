@@ -89,13 +89,11 @@ https://ghibliapi.herokuapp.com/people
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Create basic html | H | 3hrs| N/A | N/A |
-| Create basic CSS | H | 5.6hrs| N/A | N/A |
-| Link API | H | 5.6hrs| N/A | N/A |
-| Create form questions for quiz | M | 5.6hrs| N/A | N/A |
-| Create randomizer for quiz results | M | 5.6hrs| N/A | N/A |
-| Create drop-down menu with character list | M | 5.6hrs| N/A | N/A |
-| Create button for character lookup | M | 5.6hrs| N/A | N/A |
+| Create basic html | H | 3hrs| N/A | 2hrs |
+| Create basic CSS | H | 5.6hrs| N/A | 1.5hrs  |
+| Link API | H | 5.6hrs| N/A | 7 |
+| Create drop-down menu with character list | M | 5.6hrs| N/A | 5.6 |
+| Create button for character lookup | M | 5.6hrs| N/A | 16.1 |
 | Total |  | 37hrs| N/A | N/A |
 
 ## Code Snippet
