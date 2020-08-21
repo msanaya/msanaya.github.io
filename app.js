@@ -53,6 +53,12 @@ async function getData() {
 
 getData()
 
+function takeMeToDiv() {
+  const div = document.getElementById("characterPage");
+  div.scrollIntoView();
+
+};
+
 // const change = document.querySelector("select")
 // change.addEventListener("change", () => {
 //   const option = document.querySelector("option")
