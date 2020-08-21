@@ -115,3 +115,7 @@ fileData.forEach((character, i) => {
 ## Change Log
 
 * First commit. 8/16/2020 _"First version of homework."_
+
+## Extras 
+
+Mood Board: https://app.milanote.com/1K7IRU1oZ4pqaD?p=MBImE60fWtD
