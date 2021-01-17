@@ -31,7 +31,7 @@ async function getData() {
   }
 }
 
-getData()
+getData() 
 
 function takeMeToDiv() {
   const div = document.getElementById("characterPage");

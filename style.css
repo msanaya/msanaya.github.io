@@ -55,11 +55,11 @@ button {
 
 #characterPage {
   background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1598024003/background2whitewashonline_ztqyfc.png");
-  height: 100%;
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  /* position: relative; */
 }
 
 #characterPageText {
@@ -122,6 +122,26 @@ button {
   background: #323232;
   color: #b6fff8;
   font-size: 20px;
+}
+
+#scrollUp{
+  width:80px;
+  /* display: flex; */
+  align-items: right;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-right: 1.8em;
+}
+
+#scrollUpIcon{
+  height: 2em;
+}
+
+
+#totoroTransparent1{
+  height: 3.5em;
+  /* display: flex; */
+  /* align-items: right; */
 }
 
 
