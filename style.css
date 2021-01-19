@@ -58,7 +58,7 @@ button {
 
 #characterPage {
   background-image: url("https://res.cloudinary.com/dhj9oydvn/image/upload/v1598024003/background2whitewashonline_ztqyfc.png");
-  /* height: 100vh; */
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

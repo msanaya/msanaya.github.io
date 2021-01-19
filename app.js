@@ -31,10 +31,16 @@ async function getData() {
   }
 }
 
-getData() 
+getData()
 
 function takeMeToDiv() {
   const div = document.getElementById("characterPage");
+  div.scrollIntoView();
+
+};
+
+function takeMeHome() {
+  const div = document.getElementById("homePage");
   div.scrollIntoView();
 
 };
