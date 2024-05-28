@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/msanaya/Studio-Ghibli-Fun/issues"
   },
-  "homepage": "https://github.com/msanaya/Studio-Ghibli-Fun#readme"
+  "homepage": "https://github.com/msanaya/Studio-Ghibli-Fun#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }

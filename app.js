@@ -6,8 +6,13 @@ async function getData() {
   try {
     const response = await axios.get(url)
     const fileData = response.data
-    fileData.forEach((character, i) => {
-      const dropdown = document.getElementById('select-character')
+    console.log(fileData)
+    var dataArray = Object.keys(fileData); //this is not working, converts to array but no data
+    // fileData = JSON.parse(fileData);
+    console.log(dataArray)
+    dataArray.forEach((character, i) => {
+      const dropdown = document.getElementById('select-character') 
+      console.log (dropdown)
       const option = document.createElement('option')
       option.textContent = character.name
       option.value = i
@@ -32,6 +37,7 @@ async function getData() {
 }
 
 getData()
+
 
 function takeMeToDiv() {
   const div = document.getElementById("characterPage");
