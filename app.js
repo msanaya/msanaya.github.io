@@ -1,15 +1,22 @@
 console.log("I'm connected");
-const url = "https://api.jsonbin.io/v3/b/665570e2e41b4d34e4fa94ab";
+// const url = "https://api.jsonbin.io/v3/b/665570e2e41b4d34e4fa94ab";
+ let req = new XMLHttpRequest();
 
 async function getData() {
   const url = "https://api.jsonbin.io/v3/b/665570e2e41b4d34e4fa94ab"
   try {
     const response = await axios.get(url)
+    // response = Object.keys(fileData);
     const fileData = response.data
-    console.log(fileData)
-    var dataArray = Object.keys(fileData); //this is not working, converts to array but no data
-    // fileData = JSON.parse(fileData);
+    console.log(fileData.record.people)
+    const peopleArray = fileData.record.people
+    // const dataArray = JSON.stringify(fileData);
+    // var parse = Object.values(JSON.parse(fileData))
+    var dataArray = Object.values(peopleArray); //this is not working, converts to array but no data
+    // var dataArray2=dataArray.map(el=>Object.values(el));
+    // dataArray = JSON.parse(dataArray);
     console.log(dataArray)
+    // var dataArray = Object.values(fileData)
     dataArray.forEach((character, i) => {
       const dropdown = document.getElementById('select-character') 
       console.log (dropdown)
