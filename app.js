@@ -1,8 +1,8 @@
 console.log("I'm connected");
-const url = "https://ghibliapi.herokuapp.com/people";
+const url = "https://api.jsonbin.io/v3/b/665570e2e41b4d34e4fa94ab";
 
 async function getData() {
-  const url = "https://ghibliapi.herokuapp.com/people/"
+  const url = "https://api.jsonbin.io/v3/b/665570e2e41b4d34e4fa94ab"
   try {
     const response = await axios.get(url)
     const fileData = response.data
